@@ -27,7 +27,7 @@ import * as sender from "chuck-joke-sender";
 
 sender.GetAndSendRandomJoke();
 ```
-If you run Node.js application than you are able to see successful login message.
+If you run Node.js application than you are able to see successful login message. Email with Chuck Norris Joke will be received on CHUCK_RECEIVERS addresses.
 ```sh
 node .\index.js
 Email sent: 250 2.0.0 OK  <OTHER_CONFIGURATIONS_DEPENDS_ON_YOUR_SYSTEM>
