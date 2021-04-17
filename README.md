@@ -12,7 +12,7 @@ To run this package you need to have allowed 'less secure application' in google
  - You are able to allow this setting on [following link][enable_app_url]
 
 Next you need to set up some environment variables on your system.
- - GMAIL_USERNAME - gmail account with enabled ['less secure application'][enable_app_url], example: <USERNAME>@gmail.com
+ - GMAIL_USERNAME - gmail account with enabled ['less secure application'][enable_app_url], example: '<USERNAME_OF_YOUR_GOOGLE_ACCOUNT>@gmail.com'
  - GMAIL_PASSWORD - password of gmail account
  - CHUCK_RECEIVERS - list of email addresses, example '<USERNAME_1>@gmail.com, <USERNAME_2>@gmail.com, <USERNAME_3>@gmail.com'
 ## How to install and use [npm package][npm_url]
